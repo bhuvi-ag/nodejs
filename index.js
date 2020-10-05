@@ -40,9 +40,9 @@ logger.log('HIIII')
  //var files = fs.readdirSync('./');
  //console.log(files,'files');
 
-//   fs.readdir('./',function(err,files){
-//     if(err) console.log('error',err);
-//     else console.log('result',files);
-//   });
+  fs.readdir('./',function(err,files){
+    if(err) console.log('error',err);
+    else console.log('result',files);
+  });
 
  logger.log('message');
