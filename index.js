@@ -45,4 +45,4 @@ logger.log('HIIII')
 //     else console.log('result',files);
 //   });
 
-// logger.log('message');
+ logger.log('message');
