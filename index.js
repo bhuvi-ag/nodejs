@@ -27,7 +27,7 @@ console.log('listenting the port 3000')
 
 
 
-//console.log(path.parse(__dirname),'name');
+console.log(path.parse(__dirname),'name');
 //console.log(os.freemem(),'free memory');
 // var totalmemeory = os.totalmem();
 // var freemem  = os.freemem();
